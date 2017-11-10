@@ -1,0 +1,9 @@
+MODOWADB.DOK=
+  (DESCRIPTION =
+    (ADDRESS_LIST =
+      (ADDRESS = (PROTOCOL = TCP)(HOST = modowadb)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+      (SERVICE_NAME = modowa)
+    )
+  ) 
